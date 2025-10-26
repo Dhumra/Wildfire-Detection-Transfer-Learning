@@ -1,6 +1,3 @@
-# Wildfire-Detection-Transfer-Learning
-A PyTorch project to detect wildfires from satellite imagery using ResNet18 and transfer learning. Achieves 96.10% accuracy on the unseen test set.
-
 # 🔥 Wildfire Detection with Transfer Learning
 
 A deep learning project to detect wildfires from satellite imagery using PyTorch and Transfer Learning with ResNet18. This model achieves **96.10% accuracy** on the unseen test set.
